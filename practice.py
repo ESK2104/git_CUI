@@ -13,6 +13,7 @@ print(ans2)
 
 ans3 = b * c
 print(ans3)
+print('diffの差分をとる')
 
 
 print('すべての処理が正常に動作しました。')
